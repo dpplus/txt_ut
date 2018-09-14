@@ -1,0 +1,22 @@
+<root>
+<const>
+const1
+</const>
+<py>
+<ex>
+tempt_string=""
+for i in range(0,10):
+	tempt_string+=str(i*</ex><v>multi</v><ex>+</ex><v>multi</v><ex>**2)
+print(tempt_string)</ex>
+</py>
+<const>
+const2
+</const>
+<str>
+<ex>only variable </ex><v>multi</v><ex> is changed here</ex>
+</str>
+<const>
+const3
+</const>
+<v>multi</v>
+</root>
